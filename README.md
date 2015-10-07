@@ -55,7 +55,7 @@ Additional documentation discussing ES assets and identities can be found at htt
 
 # Credits
 Big thanks to the following individuals who helped contribute to this effort:
-* Aaron Kornhouser
+* Aaron Kornhauser
 
 # Legal
 * *Splunk* is a registered trademark of Splunk, Inc.
