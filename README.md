@@ -1,8 +1,5 @@
-# SA-IdentityExtraction
-Project found at https://github.com/hire-vladimir/SA-IdentityExtraction
-
 # Introduction
-The Splunk *SA-IdentityExtraction* add-on is used in conjunction with the *SA-ldapsearch* to populate asset and identity information from Active Directory. The asset and identity information within this app is by default integrated with Enterprise Security to enrich and correlate events with customer-defined information.
+The Splunk *SA-IdentityExtraction* add-on is used in conjunction with the *SA-ldapsearch* to populate asset and identity information from Active Directory. The asset and identity information within this app is by default integrated with Enterprise Security to enrich and correlate events with customer-defined information. Project found at https://github.com/hire-vladimir/SA-IdentityExtraction
 
 ## Tested with
 * Splunk 6.2.3 and Splunk 6.3.0
