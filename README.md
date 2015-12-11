@@ -2,7 +2,7 @@
 The Splunk *SA-IdentityAssetExtraction* add-on works with various data sources to create and populate asset and identity information. Asset and identity information within this app is integrated with Enterprise Security (ES) Identity framework to enrich and correlate events with customer-defined information.
 
 Supported sources for identity collection:
-* Active directory (via SA-ldapsearch)
+* Active directory (via [SA-ldapsearch](https://splunkbase.splunk.com/app/1151/))
 
 Supported sources for asset collection:
 * Active directory (via [SA-ldapsearch](https://splunkbase.splunk.com/app/1151/))
