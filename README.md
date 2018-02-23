@@ -15,10 +15,10 @@ Supported sources for asset collection:
 Project found at https://github.com/hire-vladimir/SA-IdentityAssetExtraction. Interested in contributing? Create a pull request or open an issue on GitHub!
 
 ## Tested with
-* Splunk 6.2.3 and Splunk 6.3.0
-* Enterprise Security 3.3.0
-* SA-ldapsearch 2.1.0
-* Splunk App for AWS 4.0.0
+* Splunk 6.5+, 6.6+, 7.0+
+* Enterprise Security 3+, 4+, 5+
+* SA-ldapsearch 2.1+
+* AWS TA 4+
 
 # Assumptions and pre-requisites
 Following are pre-requisites are dependent on data sources that will be used for integration:
@@ -71,7 +71,7 @@ Invalid key in stanza [identity_manager://ldap_identities] in /Applications/Splu
 
 
 # Additional Resources
-Additional documentation discussing ES assets and identities can be found at http://docs.splunk.com/Documentation/ES/latest/Install/IdentityManager
+Additional documentation discussing ES assets and identities can be found at http://docs.splunk.com/Documentation/ES/latest/Admin/Addassetandidentitydata
 
 # Credits
 Big thanks to the following individuals who helped contribute to this effort:
